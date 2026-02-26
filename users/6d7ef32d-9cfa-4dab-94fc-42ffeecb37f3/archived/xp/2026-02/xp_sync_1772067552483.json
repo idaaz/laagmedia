@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f7531a9b-f0e2-42f1-b200-4fd935251fcd",
+    "user_id": "6d7ef32d-9cfa-4dab-94fc-42ffeecb37f3",
+    "source_type": "task_complete",
+    "source_id": "0fb95ea5-3719-46d4-8ec0-87c9e6a33fc0",
+    "delta_xp": 30,
+    "reason": "Completed high priority task",
+    "capped": false,
+    "decay_applied": false,
+    "tone_used": "motivational",
+    "created_at": "2026-02-12T07:21:28.74604+00:00"
+  },
+  {
+    "id": "a041e99e-8a03-41ee-82e1-45ddd57602aa",
+    "user_id": "6d7ef32d-9cfa-4dab-94fc-42ffeecb37f3",
+    "source_type": "penalty",
+    "source_id": null,
+    "delta_xp": -15,
+    "reason": "Screen threshold exceeded",
+    "capped": false,
+    "decay_applied": false,
+    "tone_used": "brutal",
+    "created_at": "2026-02-12T07:21:28.74604+00:00"
+  }
+]
