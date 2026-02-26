@@ -1,0 +1,14 @@
+[
+  {
+    "id": "d36de25a-6057-41ba-a980-2c45fa93f9d3",
+    "user_id": "304915eb-eff6-49c9-a21b-c82694d5e860",
+    "source_type": "habit_complete",
+    "source_id": "d1859515-d93b-44ec-bd59-b9bc2845a2fb",
+    "delta_xp": 12,
+    "reason": "Habit completed: excise",
+    "capped": false,
+    "decay_applied": false,
+    "tone_used": null,
+    "created_at": "2026-02-12T12:54:54.812345+00:00"
+  }
+]
