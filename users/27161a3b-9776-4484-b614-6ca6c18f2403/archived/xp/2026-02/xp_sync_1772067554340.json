@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d601a275-2a67-4065-8da3-6593d14dd5c3",
+    "user_id": "27161a3b-9776-4484-b614-6ca6c18f2403",
+    "source_type": "task_complete",
+    "source_id": "47c3707e-3896-43e7-9edf-35ce710f4075",
+    "delta_xp": 10,
+    "reason": "Completed task: fgh",
+    "capped": false,
+    "decay_applied": false,
+    "tone_used": null,
+    "created_at": "2026-02-24T03:36:29.818415+00:00"
+  },
+  {
+    "id": "eb33a09e-421a-4405-b0d9-54cccaa66b79",
+    "user_id": "27161a3b-9776-4484-b614-6ca6c18f2403",
+    "source_type": "task_complete",
+    "source_id": "700a88f9-ec41-4e92-a537-e9cc5adcbccc",
+    "delta_xp": 10,
+    "reason": "Completed task: asd",
+    "capped": false,
+    "decay_applied": false,
+    "tone_used": null,
+    "created_at": "2026-02-24T16:32:54.246161+00:00"
+  },
+  {
+    "id": "2174c458-6438-4507-99a4-e9e7aea3f6e9",
+    "user_id": "27161a3b-9776-4484-b614-6ca6c18f2403",
+    "source_type": "achievement",
+    "source_id": "f3ff4113-9da9-437c-842c-13485bf93cb1",
+    "delta_xp": 200,
+    "reason": "Achievement unlocked: Burnout Avoider",
+    "capped": false,
+    "decay_applied": false,
+    "tone_used": null,
+    "created_at": "2026-02-24T17:06:35.110145+00:00"
+  },
+  {
+    "id": "0f66c151-9ef8-4d36-a553-c3f884c4d6e9",
+    "user_id": "27161a3b-9776-4484-b614-6ca6c18f2403",
+    "source_type": "achievement",
+    "source_id": "456893f9-9f14-49fe-ad51-2b2d20fa3b0a",
+    "delta_xp": 100,
+    "reason": "Achievement unlocked: Truth Seeker",
+    "capped": false,
+    "decay_applied": false,
+    "tone_used": null,
+    "created_at": "2026-02-24T17:06:39.775039+00:00"
+  }
+]
