@@ -1,0 +1,18 @@
+{
+  "id": "7ee20cfc-a196-4341-9769-a3e333f091ee",
+  "user_id": "27161a3b-9776-4484-b614-6ca6c18f2403",
+  "title": "hyy",
+  "body": "l",
+  "note_type": "milestone",
+  "horizon": "this_week",
+  "impact_score": 5,
+  "effort_score": 5,
+  "tags": [],
+  "review_date": null,
+  "pinned": false,
+  "archived": false,
+  "archived_at": null,
+  "created_at": "2026-02-22T10:18:47.930947+00:00",
+  "updated_at": "2026-02-22T10:18:47.930947+00:00",
+  "attachments": []
+}
