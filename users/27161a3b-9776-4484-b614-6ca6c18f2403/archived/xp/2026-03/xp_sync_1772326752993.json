@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d7f751fb-6704-48d9-99e1-fc168888d4b0",
+    "user_id": "27161a3b-9776-4484-b614-6ca6c18f2403",
+    "source_type": "achievement",
+    "source_id": "b13f5d30-f1bb-4942-874e-bcff2bbd52b3",
+    "delta_xp": 25,
+    "reason": "Achievement unlocked: Habit Starter",
+    "capped": false,
+    "decay_applied": false,
+    "tone_used": null,
+    "created_at": "2026-02-27T09:12:52.268195+00:00"
+  },
+  {
+    "id": "ecfbb232-9178-4699-b8f2-18e88504910e",
+    "user_id": "27161a3b-9776-4484-b614-6ca6c18f2403",
+    "source_type": "habit_complete",
+    "source_id": "d09e8466-e53a-4041-a4ab-dd96b2806546",
+    "delta_xp": 5,
+    "reason": "Habit completed: mor",
+    "capped": false,
+    "decay_applied": false,
+    "tone_used": null,
+    "created_at": "2026-02-27T09:12:57.67262+00:00"
+  }
+]
