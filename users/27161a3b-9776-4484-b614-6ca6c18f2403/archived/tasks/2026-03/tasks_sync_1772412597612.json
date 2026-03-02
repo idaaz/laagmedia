@@ -1,0 +1,19 @@
+[
+  {
+    "id": "914e1ca3-b981-40e4-b79f-1ce78b1a4cee",
+    "user_id": "27161a3b-9776-4484-b614-6ca6c18f2403",
+    "title": "dfg",
+    "description": "dfg",
+    "priority": "medium",
+    "status": "completed",
+    "deadline_at": "2026-03-07T13:24:00+00:00",
+    "completed_at": "2026-02-28T16:03:48.094+00:00",
+    "xp_base": 10,
+    "xp_bonus": 0,
+    "xp_awarded": 10,
+    "is_flagged": false,
+    "override_reason": null,
+    "created_at": "2026-02-28T13:18:59.340428+00:00",
+    "updated_at": "2026-02-28T16:03:49.012389+00:00"
+  }
+]
