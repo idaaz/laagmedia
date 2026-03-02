@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b4cca895-15a5-4306-9e5a-69a2ee6c23c8",
+    "user_id": "27161a3b-9776-4484-b614-6ca6c18f2403",
+    "source_type": "achievement",
+    "source_id": "55b8e8c6-dd2c-4cf0-9aab-bef92ee636cb",
+    "delta_xp": 30,
+    "reason": "Achievement unlocked: Data Enthusiast",
+    "capped": false,
+    "decay_applied": false,
+    "tone_used": null,
+    "created_at": "2026-02-28T13:35:01.369354+00:00"
+  },
+  {
+    "id": "c9287516-11dd-4588-a342-7df770603820",
+    "user_id": "27161a3b-9776-4484-b614-6ca6c18f2403",
+    "source_type": "task_complete",
+    "source_id": "914e1ca3-b981-40e4-b79f-1ce78b1a4cee",
+    "delta_xp": 10,
+    "reason": "Completed task: dfg",
+    "capped": false,
+    "decay_applied": false,
+    "tone_used": null,
+    "created_at": "2026-02-28T16:03:48.457191+00:00"
+  },
+  {
+    "id": "29a74397-f260-4ae1-bcdc-380031d62bd0",
+    "user_id": "27161a3b-9776-4484-b614-6ca6c18f2403",
+    "source_type": "achievement",
+    "source_id": "af0b14e2-05ff-4f19-b2bf-bfcc4d405f79",
+    "delta_xp": 25,
+    "reason": "Achievement unlocked: First Steps",
+    "capped": false,
+    "decay_applied": false,
+    "tone_used": null,
+    "created_at": "2026-02-28T16:03:54.935316+00:00"
+  }
+]
